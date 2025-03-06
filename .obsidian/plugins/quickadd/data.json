@@ -16,7 +16,7 @@
           "算法"
         ],
         "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
+        "createInSameFolderAsActiveFile": true,
         "chooseFromSubfolders": false
       },
       "appendLink": false,
