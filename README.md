@@ -31,12 +31,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian">
 </p>
 
+**为什么选择 Obsidian？**
+- 🧠 双向链接构建算法知识图谱
+- 🔍 本地化存储确保数据隐私
+- 📝 Markdown + LaTeX + Mermaid 原生支持
+- ⚡ 超过 1000+ 插件生态（如 Git 同步、代码片段管理）
 ---
 
 ## 🧠 核心特性 (Features)
+
 <details>
 <summary><strong>📂 结构化知识体系</strong></summary>
 
@@ -74,10 +80,8 @@
 ## 🖥️ 快速开始 (Quick Start)
 ```bash
 # 克隆仓库
-git clone https://github.com/yourname/algorithm-notebook.git
+git clone https://github.com/StayOne1/Notes.git
 
-# 启动Jupyter Lab
-jupyter lab
 ```
 
 ---
