@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "标签": "checkbox",
+    "算法标签": "text",
+    "难度": "text",
+    "日期": "datetime"
+  }
+}
