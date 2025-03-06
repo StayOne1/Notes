@@ -7,7 +7,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/StayOne1/algorithm-notebook?style=for-the-badge&logo=telegram&color=7b42f5)](https://github.com/StayOne1/Notes/issues)
 [![License](https://img.shields.io/badge/license-MIT-%23007bff?style=for-the-badge&logo=open-source-initiative)](https://github.com/StayOne1/Notes/tree/main/LICENSE)
 
-![Algorithm Header](https://raw.githubusercontent.com/StayOne1/Notes/tree/main/assets/header.svg)
+![Algorithm Header](https://raw.githubusercontent.com/StayOne1/Notes/main/assets/header.svg)
 
 </div>
 
