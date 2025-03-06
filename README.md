@@ -3,11 +3,11 @@
 
 # 🚀 Algorithm Mastery Notebook
 
-[![GitHub Stars](https://img.shields.io/github/stars/StayOne1/algorithm-notebook?style=for-the-badge&logo=starship&color=00ffff&logoColor=white)](https://github.com/yourname/algorithm-notebook/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/StayOne1/algorithm-notebook?style=for-the-badge&logo=telegram&color=7b42f5)](https://github.com/StayOne1/algorithm-notebook/issues)
-[![License](https://img.shields.io/badge/license-MIT-%23007bff?style=for-the-badge&logo=open-source-initiative)](https://github.com/StayOne1/algorithm-notebook/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/StayOne1/Notes?style=for-the-badge&logo=starship&color=00ffff&logoColor=white)](https://github.com/StayOne1/Notes/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/StayOne1/algorithm-notebook?style=for-the-badge&logo=telegram&color=7b42f5)](https://github.com/StayOne1/Notes/issues)
+[![License](https://img.shields.io/badge/license-MIT-%23007bff?style=for-the-badge&logo=open-source-initiative)](https://github.com/StayOne1/Notes/tree/main/LICENSE)
 
-![Algorithm Header](https://raw.githubusercontent.com/StayOne1/algorithm-notebook/main/assets/header.svg)
+![Algorithm Header](https://raw.githubusercontent.com/StayOne1/Notes/tree/main/assets/header.svg)
 
 </div>
 
